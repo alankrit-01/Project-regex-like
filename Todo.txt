@@ -1,0 +1,3 @@
+Algorithm to generate equivalent query.
+Handle character class, negated character class
+Handle- (\w)*
